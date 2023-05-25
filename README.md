@@ -5,9 +5,6 @@
 ### Project author
 Nadduli Dan (nadduli)
 
-### Assignment dates
-21-09-2021 to 23-09-2021
-
 ### Description
 Third team project. Introduction to stacks and queues as varieties of linked lists, and implementation of a byte code interpreter.
 
@@ -268,4 +265,4 @@ File(s): [`1003-mul.bf`](https://github.com/nadduli/monty/blob/main/bf/1003-mul.
 ---
 
 ### Author
-Nadduli Dan
+Mikael Alemu
